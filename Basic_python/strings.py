@@ -1,0 +1,12 @@
+name = "John Doe"
+print(name)
+print(name.upper())
+print(name.lower())
+ind=name.find('f')
+print("f is in the position: " +  str(ind))
+print(name.replace("John Doe", "Anna"))
+print(name.replace('D', 'T'))
+print("If J in the name: ") 
+print('J' in name)
+print("If K in the name: ") 
+print('K' in name)

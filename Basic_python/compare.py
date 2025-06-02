@@ -1,0 +1,8 @@
+print(3>2)
+print(10>47)
+print(2==2)
+print(2!=3)
+print("logical ops: ")
+print(3>2 or 3>4)
+print(3>2 and 3>5)
+print(not 2>3)
